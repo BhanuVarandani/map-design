@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box1{
+    height: 90%;
+    width: 90%;
+    background-image: url(https://i.pinimg.com/736x/15/6b/ee/156bee78a7ddff2769d0332416f32249.jpg);
+    position: absolute;
+    margin-top: 1%;
+    left: 4%;
+    object-fit: cover;
+    background-position: 2% 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
